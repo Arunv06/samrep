@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  .welcome-message {
+    color: green;
+  }
+  
+  .login-message {
+    color: red;
+  }
+  
+  .logbutton {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  

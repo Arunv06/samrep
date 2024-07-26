@@ -1,0 +1,27 @@
+.fetched-users {
+    /* Add your desired styles here */
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .fetched-users h1 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .fetched-users ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .fetched-users li {
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .fetched-users li:last-child {
+    border-bottom: none;
+  }
+  
